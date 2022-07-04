@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 style='text-align: center;'> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Oiii!, meu nome é <a style='text-decoration: none; color: #cb205e;' href="https://github.com/Guilherme-Silva0">Guilherme</a></h1>
 
-<!--
-**Guilherme-Silva0/Guilherme-Silva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style='display: flex;'>
+  <p style="width: 85%;">Sou um estudante ativo de programação web, planejo me proficionalizar em desenvolvimento de softwares que ajudem pessoas com seus problemas diarios e empresas em suas demandas.</p>
+  <img align = "right" width="100" src="img/i.gif"/>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Guilherme-Silva0&show_icons=true&theme=monokai" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Silva0&theme=monokai&hide_border=true" width = 400>
+</p>
