@@ -17,6 +17,6 @@
   <h2>Entre em contato</h2>
   <a align = "center" href="https://www.linkedin.com/in/guilherme-silva-045301244/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a align = "center" href="https://instagram.com/guisilva_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align = "center" href = "mailto:luiz.silva136@aluno.ce.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align = "center" href = "mailto:guilhermesilvadev0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align = "center" href="https://wa.me/5585987478831?text=Ola,%20vim%20do%20seu%20perfil%20do%20github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>  
