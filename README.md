@@ -8,7 +8,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Silva0&show_icons=true&count_private=true&hide_border=true&title_color=0055dd&icon_color=0099dd&text_color=0055dd&bg_color=0d1117" alt="Guilherme Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Silva0&layout=compact&hide_border=true&title_color=0055dd&text_color=0055dd&bg_color=0d1117" />
-</div>JavaScript
+</div>
 
 <div align="center"> 
 <a href="https://instagram.com/guisilva_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
