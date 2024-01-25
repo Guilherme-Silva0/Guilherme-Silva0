@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099dd&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0099dd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Silva;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0099dd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Silva;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Silva0&bg_color=0d1117&color=0099dd&line=0088dd&point=0055dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -33,6 +33,7 @@
 ### Studying in this moment:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
   
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
